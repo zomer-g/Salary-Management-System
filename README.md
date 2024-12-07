@@ -12,6 +12,9 @@ This project is a fully automated salary management system designed for organiza
 
 A **template for the required spreadsheet structure** can be found [here](https://docs.google.com/spreadsheets/d/1iysf9szEguhfCSI2itDNnyUp2ZAhAXVetqwkQ4nIKqE/edit?gid=1557421726#gid=1557421726).
 
+A **presentation of the project** can be found [here](https://docs.google.com/presentation/d/1H1hxzywakMhcbqu8KBCV6-GM3e1y05yYjEc7GCzbkGU/edit?usp=sharing).
+
+
 ---
 
 ## **Project Components**
