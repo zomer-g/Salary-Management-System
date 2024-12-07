@@ -2,7 +2,7 @@
  * Generates a monthly financial report for each owner and writes it to their respective "Summary" sheet.
  * Aggregates total costs and the number of workdays per month for each owner.
  */
-function generateMonthlyReports() {
+function generateIndividualMonthlyReports() {
   try {
     // Access the main spreadsheet and the "Data" sheet
     const mainSpreadsheet = SpreadsheetApp.getActiveSpreadsheet();
