@@ -4,7 +4,7 @@
  * Workers marked as hidden in the "Parameters" sheet are excluded from the report.
  * The "Difference" rows are formatted in bold for easy identification.
  */
-function generateMonthlyReport() {
+function generateMasterMonthlyReport() {
   try {
     // Access all relevant sheets
     const spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
